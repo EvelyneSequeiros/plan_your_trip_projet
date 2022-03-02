@@ -1,0 +1,3 @@
+Access datasets on AWS S3 :
+https://evelynesequeiros-kayakproject.s3.eu-west-3.amazonaws.com/20220228weatherdata.csv
+https://evelynesequeiros-kayakproject.s3.eu-west-3.amazonaws.com/20220228_hotelsdata.csv
